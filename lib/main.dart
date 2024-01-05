@@ -5,7 +5,7 @@ import 'package:cryptotracker/providers/market_provider.dart';
 import 'package:cryptotracker/providers/theme_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
+///crypto
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   String currentTheme = await localStorage.getTheme();
