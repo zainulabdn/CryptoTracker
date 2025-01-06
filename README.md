@@ -21,7 +21,6 @@ I'm excited to announce that I have just launched a new Crypto Tracker app! This
 https://user-images.githubusercontent.com/84194609/211063782-d501fd72-6d06-49b5-a584-4523c0865548.mp4
 
 
-
 # Getting Started
 
 This project is a starting point for a Flutter application.
